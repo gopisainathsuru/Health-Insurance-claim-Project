@@ -1,4 +1,4 @@
-# Health Insurance claim project description
+# Project description
 --------------------------------------------
 
 * An insurance company in the US is reviewing its insurance claims/charges and is trying to do a causeand effect analysis for future business decisions. It has collected data for its customers who havemade claims till recent time. The data-points collected are age, gender, bmi, number ofchildren/dependents, smoking habit, region they belong to, charges/bills claimed under theinsurance. This analysis would have a bearing on what premium should the company charge acustomer availing an insurance policy. The insurance company has collected a dataset of 1338 customers-claims.
